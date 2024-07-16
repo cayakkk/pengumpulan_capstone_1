@@ -175,7 +175,7 @@ def sub2_add_data():
                                 print('Data mobil tidak ditambahkan.')
                                 break
                             else:
-                                print('Masukkan input yang sesuai YA atau TIDAK.')
+                                print('Masukkan input yang sesuai ya atau tidak.')
                     break
                 else:
                     print('Nomor plat tidak valid. \nContoh format yang benar: B 1234 XYZ')
