@@ -1,2 +1,2 @@
-# pengumpulan_capstone_1
-Tempat Pengumpulan Capstone 1
+## capstone_1_cahaya_tambunan
+Capstone 1: Program Rental Mobil
