@@ -231,10 +231,10 @@ def sub3_update_data():
                                 while True:
                                     try:
                                         harga_baru = int(input('Masukkan harga rental mobil/hari: Rp '))
-                                        if harga_baru > 150000 and harga_baru < 1000000 and harga_baru % 1000 == 0:
+                                        if harga_baru > 150000 and harga_baru < 1500000 and harga_baru % 1000 == 0:
                                             break
                                         else:
-                                            print("Harga harus lebih dari Rp 100000.")
+                                            print("Harga harus dalam rentang Rp150000 dan Rp1000000.")
                                     except ValueError:
                                         print("Harga harus berupa angka.")
                             
