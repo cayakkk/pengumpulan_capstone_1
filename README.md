@@ -8,4 +8,3 @@ Fitur:
     Menambah Data Mobil: Menambah mobil baru ke dalam daftar.
     Mengubah Data Mobil: Mengubah informasi mobil yang sudah ada.
     Menghapus Data Mobil: Menghapus mobil dari daftar.
-    Order Mobil: Melakukan pemesanan mobil.
