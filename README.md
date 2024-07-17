@@ -1,6 +1,6 @@
 # Capstone 1: Program Rental Mobil
 
-Program ini dibuat untuk memenuhi tugas Capstone 1. Program Rental Mobil ini berbasis Python yang memungkinkan pengguna untuk mengelola data mobil, melakukan filter berdasarkan spesifikasi, harga, dan primary key, serta menambah, mengubah, menghapus, dan memesan mobil.
+Program ini dibuat untuk memenuhi tugas Capstone 1. Program Rental Mobil ini berbasis Python yang memungkinkan pengguna untuk mengelola data mobil, melakukan filter berdasarkan spesifikasi, harga, dan primary key, serta menambah, mengubah, menghapus data mobil.
 
 Fitur:
 
