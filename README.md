@@ -1,6 +1,6 @@
-# Aplikasi Rental Mobil
+# Capstone 1: Program Rental Mobil
 
-Aplikasi Rental Mobil adalah aplikasi berbasis Python yang memungkinkan pengguna untuk mengelola data mobil, melakukan filter berdasarkan spesifikasi, harga, dan primary key, serta menambah, mengubah, menghapus, dan memesan mobil.
+Program ini dibuat untuk memenuhi tugas Capstone 1. Program Rental Mobil ini berbasis Python yang memungkinkan pengguna untuk mengelola data mobil, melakukan filter berdasarkan spesifikasi, harga, dan primary key, serta menambah, mengubah, menghapus, dan memesan mobil.
 Fitur
 
     Menampilkan Daftar Mobil: Melihat semua data mobil yang tersedia.
